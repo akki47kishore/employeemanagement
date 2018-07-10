@@ -1,0 +1,3 @@
+PHP: Hypertext Preprocessor (or simply PHP) is a server-side 
+ the PHP reference implementation is now produced by The PHP Group.[6] PHP originally stood for Personal Home Page,[5] but 
+ it now stands for the recursive acronym PHP: Hypertext Preprocessor.[7] 

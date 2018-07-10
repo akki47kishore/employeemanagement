@@ -1,0 +1,8 @@
+PHP: Hypertext Preprocessor (or simply PHP) is a server-side 
+scripting language designed for Web development, but also used as a 
+general-purpose programming language.
+ It was originally created by Rasmus Lerdorf in 1994,[5] 
+ the PHP reference implementation is now produced by The PHP Group.[6] PHP originally stood for Personal Home Page,[5] but 
+ it now stands for the recursive acronym PHP: Hypertext Preprocessor.[7] 
+. Most notably, it introduces return type declarations for functions,[60] which complement the existing parameter type 
+declarations, and support for the scalar types (integer, float, string, and boolean) in parameter and return type declarations

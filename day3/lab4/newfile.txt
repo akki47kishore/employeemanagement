@@ -1,0 +1,49 @@
+Framework: Zend Framework, License : New BSD<br>
+Framework: symfony, License : MIT<br>
+Framework: CakePHP, License : MIT<br>
+Framework: MODX, License : GPL<br>
+Framework: CodeIgniter, License : Apache/BSD<br>
+Framework: Seagull, License : BSD<br>
+Framework: Prado, License : BSD<br>
+Framework: Solar, License : New BSD<br>
+Framework: eZ Components, License : New BSD<br>
+Framework: Kohana, License : BSD<br>
+Framework: Jelix, License : LGPL<br>
+Framework: FLOW3, License : LGPL<br>
+Framework: Sapphire, License : BSD<br>
+Framework: PHP for Applications, License : LGPL<br>
+Framework: Yii, License : BSD<br>
+Framework: Limonade, License : MIT<br>
+Framework: Tekuna, License : MIT<br>
+Framework: DooPHP, License : New BSD<br>
+Framework: Fat-Free, License : GPL<br>
+Framework: Akelos, License : LGPL<br>
+Framework: PHP on TRAX, License : GPL<br>
+Framework: ATK, License : LGPL<br>
+Framework: Adventure PHP Framework, License : LGPL<br>
+Framework: FuelPHP, License : MIT<br>
+Framework: Nette, License : New BSD/GPL<br>
+Framework: Recess, License : MIT<br>
+Framework: Flourish, License : MIT<br>
+Framework: Nephtali, License : MIT<br>
+Framework: Agavi, License : LGPL<br>
+Framework: Gantry, License : GPL2<br>
+Framework: Phaux, License : MIT<br>
+Framework: Lexa-Tools, License : MIT<br>
+Framework: Vork, License : GPL3<br>
+Framework: toKernel, License : GPL3<br>
+Framework: Rain, License : MIT<br>
+Framework: ZanPHP, License : GPL<br>
+Framework: Swiftlet, License : MIT<br>
+Framework: Lamplighter, License : MIT<br>
+Framework: orinoco, License : MIT<br>
+Framework: Zoop, License : ZPL<br>
+Framework: Sourdough, License : LGPL<br>
+Framework: Lithium, License : BSD<br>
+Framework: Slim, License : MIT<br>
+Framework: Silex, License : MIT<br>
+Framework: Laravel, License : MIT<br>
+Framework: Osezno, License : GPL3<br>
+Framework: Zend Framework 2, License : New BSD<br>
+Framework: Symfony 2, License : MIT<br>
+Framework: PhalconPHP, License : New BSD<br>
